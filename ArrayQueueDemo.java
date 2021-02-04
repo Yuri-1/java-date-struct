@@ -1,4 +1,5 @@
 package DataStruct.DataStruct;
+
 import java.util.Scanner;
 public class ArrayQueueDemo {
     public static void main(String[] args) {
